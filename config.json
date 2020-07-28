@@ -1,0 +1,30 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/my_blog",
+    "prod_uri":"mysql://root:@localhost/my_blog",
+    "fb_url": "https://facebook.com/my_blog",
+    "tw_url": "https://twitter.com/my_blog",
+    "gh_url": "https://github.com/my_blog",
+    "blog_name":"My Blog",
+    "sub_heading":"A blog liked by everyone ",
+    "gmail_user":"your email here to get notified",
+    "gmail_password":"your password here",
+    "about_text": "Hey i m rajeev i am a programmer and a good boy",
+    "no_of_posts":1,
+    "login_img":"logo.svg",
+    "admin_user":"rajeev",
+    "admin_password":"local",
+    "upload_location":"C:\\rajiv\\file\\file\\static yourimageuploadpath"
+  }
+
+
+
+
+
+
+
+
+
+}
